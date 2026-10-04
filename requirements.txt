@@ -1,0 +1,8 @@
+langchain==1.4.2
+langchain-community==0.4.2
+langchain-ollama==1.1.0
+langgraph==1.2.11
+langsmith==0.13.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+rich==15.0.0
